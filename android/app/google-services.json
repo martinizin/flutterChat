@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "885386586313",
+    "firebase_url": "https://fir-codelad-default-rtdb.firebaseio.com",
+    "project_id": "fir-codelad",
+    "storage_bucket": "fir-codelad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885386586313:android:d2ede6b4ac7772d59bc518",
+        "android_client_info": {
+          "package_name": "com.chat.exe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNlCcEGnfzO-dAERTPW_zi3SvtKWavMIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885386586313:android:59d775ae11218b159bc518",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNlCcEGnfzO-dAERTPW_zi3SvtKWavMIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
