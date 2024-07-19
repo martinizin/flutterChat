@@ -40,52 +40,53 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB6b-O51jqKaj7PMPtTe8wkCbHXS7xKD6Q',
-    appId: '1:885386586313:web:747574010700f4fe9bc518',
-    messagingSenderId: '885386586313',
-    projectId: 'fir-codelad',
-    authDomain: 'fir-codelad.firebaseapp.com',
-    databaseURL: 'https://fir-codelad-default-rtdb.firebaseio.com',
-    storageBucket: 'fir-codelad.appspot.com',
+    static const FirebaseOptions web = FirebaseOptions(
+    apiKey: "AIzaSyAnKsE4cLaMFNaSEV7LVWx2JT_kaC4Uoyk",
+    authDomain: "chatflutter-181be.firebaseapp.com",
+    databaseURL: "https://chatflutter-181be-default-rtdb.firebaseio.com",
+    projectId: "chatflutter-181be",
+    storageBucket: "chatflutter-181be.appspot.com",
+    messagingSenderId: "867280179629",
+    appId: "1:867280179629:web:8da4f34a533b80339ed124",
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDNlCcEGnfzO-dAERTPW_zi3SvtKWavMIs',
-    appId: '1:885386586313:android:d2ede6b4ac7772d59bc518',
-    messagingSenderId: '885386586313',
-    projectId: 'fir-codelad',
-    databaseURL: 'https://fir-codelad-default-rtdb.firebaseio.com',
-    storageBucket: 'fir-codelad.appspot.com',
+    apiKey: "AIzaSyAnKsE4cLaMFNaSEV7LVWx2JT_kaC4Uoyk",
+    authDomain: "chatflutter-181be.firebaseapp.com",
+    databaseURL: "https://chatflutter-181be-default-rtdb.firebaseio.com",
+    projectId: "chatflutter-181be",
+    storageBucket: "chatflutter-181be.appspot.com",
+    messagingSenderId: "867280179629",
+    appId: "1:867280179629:web:8da4f34a533b80339ed124"
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC6CPdYHbsBy-gYWDYej4Aw3gSOu6xZ_ks',
-    appId: '1:885386586313:ios:1866226477e6f8919bc518',
-    messagingSenderId: '885386586313',
-    projectId: 'fir-codelad',
-    databaseURL: 'https://fir-codelad-default-rtdb.firebaseio.com',
-    storageBucket: 'fir-codelad.appspot.com',
-    iosBundleId: 'com.example.chatFlutter',
+    apiKey: "AIzaSyAnKsE4cLaMFNaSEV7LVWx2JT_kaC4Uoyk",
+    appId: "1:867280179629:web:8da4f34a533b80339ed124",
+    messagingSenderId: "867280179629",
+    projectId: "chatflutter-181be",
+    databaseURL: "https://chatflutter-181be-default-rtdb.firebaseio.com",
+    storageBucket: "chatflutter-181be.appspot.com",
+    iosBundleId: 'com.expample.chatFlutter',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC6CPdYHbsBy-gYWDYej4Aw3gSOu6xZ_ks',
-    appId: '1:885386586313:ios:1866226477e6f8919bc518',
-    messagingSenderId: '885386586313',
-    projectId: 'fir-codelad',
-    databaseURL: 'https://fir-codelad-default-rtdb.firebaseio.com',
-    storageBucket: 'fir-codelad.appspot.com',
-    iosBundleId: 'com.example.chatFlutter',
+    apiKey: "AIzaSyAnKsE4cLaMFNaSEV7LVWx2JT_kaC4Uoyk",
+    appId: "1:867280179629:web:8da4f34a533b80339ed124",
+    messagingSenderId: "867280179629",
+    projectId: "chatflutter-181be",
+    databaseURL: "https://chatflutter-181be-default-rtdb.firebaseio.com",
+    storageBucket: "chatflutter-181be.appspot.com",
+    iosBundleId: 'com.expample.chatFlutter',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyB6b-O51jqKaj7PMPtTe8wkCbHXS7xKD6Q',
-    appId: '1:885386586313:web:f4040ab67565668b9bc518',
-    messagingSenderId: '885386586313',
-    projectId: 'fir-codelad',
-    authDomain: 'fir-codelad.firebaseapp.com',
-    databaseURL: 'https://fir-codelad-default-rtdb.firebaseio.com',
-    storageBucket: 'fir-codelad.appspot.com',
+    apiKey: "AIzaSyAnKsE4cLaMFNaSEV7LVWx2JT_kaC4Uoyk",
+    authDomain: "chatflutter-181be.firebaseapp.com",
+    databaseURL: "https://chatflutter-181be-default-rtdb.firebaseio.com",
+    projectId: "chatflutter-181be",
+    storageBucket: "chatflutter-181be.appspot.com",
+    messagingSenderId: "867280179629",
+    appId: "1:867280179629:web:8da4f34a533b80339ed124"
   );
 }
